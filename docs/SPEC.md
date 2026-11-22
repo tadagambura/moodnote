@@ -1,6 +1,6 @@
 # MoodNote: Spec
 
-**A 30-second check-in that shows your patterns** · #23 of 33 in the build order · Medium · Revenue potential: Medium · Habits, Health & Learning · Source: Perplexity
+**A 30-second check-in that shows your patterns** · #9 of 33 · Wave 1: Daily keepers · Used: Daily · Medium · Revenue potential: Medium · Habits, Health & Learning · Source: Perplexity
 
 ## One-liner
 
@@ -49,6 +49,11 @@ Prices are starting points; test before committing.
 
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
+
+## AI
+
+**Light (opt-in).** Optional weekly reflection written from your check-ins. Opt-in only, premium, no identifying data sent. (Portfolio rule: plain code first, code does the maths,
+cheapest model, shared budget cap, premium-gated.)
 
 ## Platform & data
 
