@@ -1,48 +1,77 @@
 # MoodNote: Spec
 
+**A 30-second check-in that shows your patterns** · #23 of 33 in the build order · Medium · Revenue potential: Medium · Habits, Health & Learning · Source: Perplexity
+
 ## One-liner
 
-A 30-second check-in that shows your patterns
+Log mood, energy, sleep and stress in one tap a day, add optional tags (work, exercise, period, medication), and see what lines up with your good and bad days. Export your history for a GP or therapist.
 
 ## Problem / audience
 
-- Who it's for:
-- The problem it solves:
+- **Who it's for:** People managing stress, burnout, ADHD, cycle symptoms or anxiety, or simply wanting more self-awareness.
+- **The problem it solves:** It's hard to spot what affects your mood and energy, or to explain it to a professional.
+- **Example:** A user notices that poor sleep and skipped lunches come before most of their low-energy days.
 
 ## MVP features (ship with only these)
 
-1.
-2.
-3.
+1. One-tap daily check-in: mood, energy, sleep, stress
+2. Optional tags and a short note
+3. Weekly patterns
+4. Exportable history
+5. Gentle reminders, with no streak pressure
 
 ## Not in MVP
 
--
+- Correlations ('low energy follows short sleep')
+- Cycle-aware view
+- Private journal lock
 
 ## Monetisation
 
 | Model | Detail |
 |---|---|
-| Free tier | |
-| Paid | |
-| Ads | |
+| Free | Check-ins and 30 days of history, with ads |
+| Premium | £3.99/month: unlimited history, correlations, exports, lock |
+| Ads | Contextual only, never targeted using health data |
 
-## Platform & stack
+Prices are starting points; test before committing.
 
-- Platform: (web/PWA first unless there's a reason not to)
-- Stack:
-- Data: (local-only if possible)
+## Retention: The Progression Loop
 
-## Growth engine hooks
+| Stage | Design |
+|---|---|
+| Cue | Gentle daily check-in reminder |
+| Tiny win | 30-second check-in |
+| Progress | Patterns and insights (deliberately not streaks) |
+| Share | None by default (private) |
+| Next step | Weekly insight |
+| Cadence | Daily |
 
-- Shareable output (what users would post):
-- Content pillars:
+Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
+never wiped, at most one notification a day by default.
+
+## Platform & data
+
+- **Platform:** Expo app.
+- **Data:** On the device only; health-related data needs extra care.
+- **Stack:** shared portfolio foundation (Expo, PostHog, RevenueCat, AdMob, shared Progression Loop module).
+
+## Growth engine
+
+- **Content pillars:** Energy and sleep; Burnout awareness; Self-awareness tips
+- **Shareable output:** None by default (private)
+
+## Risks
+
+Sensitive health data: no ad tracking on it, strong privacy, no medical claims, and signposting to real support. Deliberately no guilt streaks.
 
 ## Launch checklist
 
+- [ ] Name checked on the App Store, Play Store and a trademark search
 - [ ] MVP features done and tested
-- [ ] Privacy policy + terms
+- [ ] Progression Loop wired (cue, tiny win, progress, milestone, next step)
+- [ ] Privacy policy and terms
 - [ ] Landing page
-- [ ] Analytics wired
+- [ ] Analytics wired (D1/D7/D30 retention)
 - [ ] Payments / ads wired
 - [ ] Added to growth-engine as an app config
