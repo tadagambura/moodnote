@@ -56,6 +56,14 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | Weekly insight |
 | Cadence | Daily |
 
+## Animation and tone
+
+**Calm.** Smooth, reassuring motion only: gentle ticks, numbers easing into place. No characters, jokes or drama.
+
+- Soft, slow transitions, like breathing
+
+**Line we don't cross:** No celebrations or reactions to mood scores, ever.
+
 ## AI
 
 **Light (opt-in).** Optional weekly reflection written from your check-ins. Opt-in only, premium, no identifying data sent.
