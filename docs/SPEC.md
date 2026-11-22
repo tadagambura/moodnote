@@ -1,6 +1,6 @@
 # MoodNote: Spec
 
-**A 30-second check-in that shows your patterns** · #8 of 32 · Wave 1: Daily keepers · Used: Daily · Medium · Revenue potential: Medium · Habits, Health & Learning · Source: Perplexity
+**A 30-second check-in that shows your patterns** · #8 of 31 · Wave 1: Daily keepers · Used: Daily · Medium · Revenue potential: Medium · Habits, Health & Learning · Source: Perplexity
 
 ## One-liner
 
