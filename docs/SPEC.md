@@ -50,11 +50,15 @@ Prices are starting points; test before committing. **Portfolio premium promise:
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
 
-## Animation and tone
+## Animation and tone: five signature animations
 
-**Calm.** Smooth, reassuring motion only: gentle ticks, numbers easing into place. No characters, jokes or drama.
+**Calm.** Gentle, kind humour and smooth motion: a stickman yawning after a shift, a fly escaping an empty pocket. No drama, nothing that adds stress.
 
-- Soft, slow transitions, like breathing
+- Check-in: the meditating stickman floats up and a bird lands on his head
+- Good day: his aura glows warm and he gives a sleepy smile
+- Rough day: a little cloud appears and he offers it an umbrella and a cup of tea
+- Weekly insight ready: he unrolls a tiny scroll
+- Sleep logged: he yawns and curls up under a blanket
 
 **Line we don't cross:** No celebrations or reactions to mood scores, ever.
 
