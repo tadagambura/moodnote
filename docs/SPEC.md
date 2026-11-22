@@ -34,7 +34,7 @@ Log mood, energy, sleep and stress in one tap a day, add optional tags (work, ex
 | Premium | £3.99/month: unlimited history, correlations, exports, lock |
 | Ads | Contextual only, never targeted using health data |
 
-Prices are starting points; test before committing.
+Prices are starting points; test before committing. **Portfolio premium promise:** free has ads; the moment you pay you get no ads, cloud backup and storage, and sync across your devices, plus this app's extras.
 
 ## Retention: The Progression Loop
 
@@ -67,6 +67,7 @@ cheapest model, shared budget cap, premium-gated.)
 
 - **Platform:** Expo app.
 - **Data:** On the device only; health-related data needs extra care.
+- **Backend:** AI proxy for the optional weekly reflection (premium). Premium backup and sync use the shared portfolio backend (see the master repo's HOSTING.md).
 - **Stack:** shared portfolio foundation (Expo, PostHog, RevenueCat, AdMob, shared Progression Loop module).
 
 ## Growth engine
