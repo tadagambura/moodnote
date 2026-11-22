@@ -50,6 +50,14 @@ Prices are starting points; test before committing.
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
 
+## Animation and tone
+
+**Calm.** Smooth, reassuring motion only: gentle ticks, numbers easing into place. No characters, jokes or drama.
+
+- Soft, slow transitions, like breathing
+
+**Line we don't cross:** No celebrations or reactions to mood scores, ever.
+
 ## AI
 
 **Light (opt-in).** Optional weekly reflection written from your check-ins. Opt-in only, premium, no identifying data sent. (Portfolio rule: plain code first, code does the maths,
