@@ -2,7 +2,7 @@
 
 **A 30-second check-in that shows your patterns**
 
-> #23 of 33 in the build order · Medium · Revenue potential: Medium · Habits, Health & Learning
+> #9 of 33 · Wave 1: Daily keepers · Used: Daily · Medium · Revenue potential: Medium · Habits, Health & Learning
 
 ## What it is
 
@@ -55,6 +55,10 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Share | None by default (private) |
 | Next step | Weekly insight |
 | Cadence | Daily |
+
+## AI
+
+**Light (opt-in).** Optional weekly reflection written from your check-ins. Opt-in only, premium, no identifying data sent.
 
 ## Watch-outs
 
