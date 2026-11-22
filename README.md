@@ -42,6 +42,8 @@ People managing stress, burnout, ADHD, cycle symptoms or anxiety, or simply want
 | Premium | £3.99/month: unlimited history, correlations, exports, lock |
 | Ads | Contextual only, never targeted using health data |
 
+**Portfolio premium promise:** free has ads; the moment you pay you get no ads, cloud backup and storage, and sync across your devices, plus this app's extras.
+
 ## Why people come back
 
 Built on **The Progression Loop**, the portfolio's shared retention framework
